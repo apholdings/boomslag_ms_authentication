@@ -5,6 +5,10 @@
   "author": "APHoldings, Boomslag DAO",
   "license": "MIT",
   "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apholdings/boomslag_ms_authentication.git"
+  },
   "keywords": [
     "auth",
     "jwt",
